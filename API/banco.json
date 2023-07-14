@@ -3,22 +3,22 @@
         {
             "id": 1,
             "nome": "Manuely Guedes",
-            "data_nascimento": "1986-12-01"
+            "data_nascimento": "1986-12-01 00:00:00"
         },
         {
             "id": 2,
             "nome": "Pedro Carlos",
-            "data_nascimento": "1985-12-01"
+            "data_nascimento": "1985-12-01 00:00:00"
         },
         {
             "id": 3,
             "nome": "Antonio Junior",
-            "data_nascimento": "1984-10-01"
+            "data_nascimento": "1984-10-01 00:00:00"
         },
         {
             "id": 4,
             "nome": "Antonia Castro",
-            "data_nascimento": "1982-11-01"
+            "data_nascimento": "1982-11-01 00:00:00"
         }
     ]
 }
