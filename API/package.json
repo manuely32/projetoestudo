@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "json-server": "^0.17.3"
   },
   "scripts": {
-    "dev": "json-server -p 8010 -d 2000 --watch banco.json",
-    "start": "node server.js",
-    "build": "run build"
+    "dev": "json-server --watch banco.json",
+    "start": "node server.js"
   }
 }
